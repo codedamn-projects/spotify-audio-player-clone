@@ -11,18 +11,18 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
+      <nav className={styles.nav}>
         <div id="heading">
           <Image
             height="40"
             width="131"
             alt="spotify logo"
-            src="/spotify-logo.svg"
+            src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png"
           />
         </div>
+      </nav>
 
-        <p>Starting coding the project</p>
-      </main>
+      <p>Starting coding the project</p>
     </div>
   );
 }
