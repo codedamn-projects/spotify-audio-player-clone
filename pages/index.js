@@ -12,20 +12,16 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
-
         <div id="heading">
           <Image
-            height=""
-            width=""
+            height="40"
+            width="131"
             alt="spotify logo"
             src="/spotify-logo.svg"
           />
         </div>
 
-        <p className={styles.description}>Powered by codedamn</p>
+        <p>Starting coding the project</p>
       </main>
     </div>
   );
