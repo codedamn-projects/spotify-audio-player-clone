@@ -4,7 +4,8 @@ const playlists = [
     createdBy: "Developer",
     numberOfSongs: 5,
     totalDuration: 962,
-    image: "",
+    image:
+      "https://raw.githubusercontent.com/codedamn-projects/spotify-audio-player-clone/master/images/Electronic.jpg",
     songsArray: [
       "PbM6xHE9aF",
       "3SAs2YaWH6",

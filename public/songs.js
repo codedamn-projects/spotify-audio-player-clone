@@ -2,7 +2,7 @@ const songs = [
   {
     id: "PbM6xHE9aF",
     name: "Come 2gether",
-    duration: 222,
+    duration: 206,
     artist: "Ooyy",
     album: "Come 2gether",
     image:
@@ -11,7 +11,7 @@ const songs = [
   {
     id: "3SAs2YaWH6",
     name: "Genesis",
-    duration: 222,
+    duration: 259,
     artist: "Ooyy",
     album: "Genesis",
     image:
@@ -20,7 +20,7 @@ const songs = [
   {
     id: "Cax8ZhYuQ4",
     name: "Flames",
-    duration: 222,
+    duration: 185,
     artist: "Ooyy",
     album: "Flames",
     image:
@@ -38,7 +38,7 @@ const songs = [
   {
     id: "Zcd1HIcopz",
     name: "Thunderbird",
-    duration: 222,
+    duration: 188,
     artist: "Ooyy",
     album: "Thunderbird",
     image: "https://i1.sndcdn.com/artworks-uWrn0xo5Qnj3-0-t500x500.png",
